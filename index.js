@@ -14,7 +14,7 @@ app.get("/",(req,res)=>{
 });
 app.get("/product",(req,res)=>{
     res.json({
-        message:"Product"    
+        message:"Product Page"    
     })
 });
 
